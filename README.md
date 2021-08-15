@@ -1,3 +1,10 @@
+the original warehouse address: 
+https://github.com/kstyrc/embedded-redis
+
+why create this repository?
+The original project has stopped maintenance!!!
+
+
 embedded-redis
 ==============
 
@@ -7,33 +14,6 @@ embedded-redis
 
 Redis embedded server for Java integration testing
 
-Maven dependency
-==============
-
-Maven Central:
-```xml
-<dependency>
-  <groupId>com.github.kstyrc</groupId>
-  <artifactId>embedded-redis</artifactId>
-  <version>0.6</version>
-</dependency>
-```
-
-Previous releases (before 0.6):
-```xml
-<repository>
-  <id>clojars.org</id>
-  <url>http://clojars.org/repo</url>
-</repository>
-
-...
-
-<dependency>
-  <groupId>redis.embedded</groupId>
-  <artifactId>embedded-redis</artifactId>
-  <version>0.5</version>
-</dependency>
-```
 
 Usage
 ==============
